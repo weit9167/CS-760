@@ -1,0 +1,4 @@
+M=2 accuracy: 0.68
+M=5 accuracy: 0.69
+M=10 accuracy: 0.7
+M=20 accuracy: 0.72

@@ -1,0 +1,5 @@
+nifest-Version: 1.0
+Created-By: Wei Tang
+Class-Path: ./weka.jar
+Main-Class: HW3
+

@@ -1,0 +1,33 @@
+The 10 Accuracies calculated from Naive Bayes:
+0.871069182390
+0.864779874214
+0.896226415094
+0.877358490566
+0.886792452830
+0.861635220126
+0.902515723270
+0.889937106918
+0.883647798742
+0.877245508982
+The 10 accuracies calculated from TAN:
+0.930817610063
+0.908805031447
+0.930817610063
+0.927672955975
+0.933962264151
+0.930817610063
+0.930817610063
+0.908805031447
+0.924528301887
+0.922155688623
+
+	Paired t-test
+
+data:  x and y
+t = -9.5105, df = 9, p-value = 5.425e-06
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.05421719 -0.03338120
+sample estimates:
+mean of the differences 
+            -0.04379919 
